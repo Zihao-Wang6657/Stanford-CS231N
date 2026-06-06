@@ -1,1 +1,1 @@
-# Stanford-CS231N
+# Assginments of Stanford-CS231N
